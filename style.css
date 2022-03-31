@@ -5,3 +5,14 @@ body {
 footer {
   font-family: 'Roboto', sans-serif;
 }
+.container-top {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.hero {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
